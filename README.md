@@ -1,4 +1,4 @@
-appengine-java-connection-pool-example
+appengine-java-connection-pool
 ======================
 
 Google App Engine frontend instances are not allowed to have threads that outlive request scope.
